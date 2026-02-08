@@ -1,0 +1,2 @@
+# Just exclude the virtual environment, nothing else
+.venv
