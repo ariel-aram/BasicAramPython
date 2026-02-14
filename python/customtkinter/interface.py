@@ -1,5 +1,6 @@
 # Author: Harel Haram
-# Projektus: The Tkinter GUI
+# Date: 2026-02-14
+# Description: Calculate the terrain through CustomTkinter
 
 # Import the entire bible itself
 import customtkinter  # type: ignore
