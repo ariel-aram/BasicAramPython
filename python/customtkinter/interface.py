@@ -1,5 +1,4 @@
-# Author: Jeo Boden
-# Dementia Machine Level 6
+# Author: Harel Haram
 # Projektus: The Tkinter GUI
 
 # Import the entire bible itself
