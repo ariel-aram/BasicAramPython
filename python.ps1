@@ -8,6 +8,6 @@ while ($true) {
     py -m ruff check --fix .
     
     # Wait for 1 hour
-    Write-Host "Ruff completed at $(Get-Date). Waiting 1 hour..."
-    Start-Sleep -Seconds 3600
+    Write-Host "Ruff completed at $(Get-Date). Waiting 20 minutes..."
+    Start-Sleep -Seconds 1200
 }
